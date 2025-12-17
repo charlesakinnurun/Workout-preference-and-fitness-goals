@@ -2,7 +2,7 @@
 
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Open‑Source-blue.svg?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
-This Code of Conduct applies to all spaces in the **World Billionaries by Forbes** project — including code, documentation, issue trackers, mailing lists, chat channels, wikis, blogs, social media, and any other communication channels used by the project.
+This Code of Conduct applies to all spaces in the **Workout Preference and Fitness Goals** project — including code, documentation, issue trackers, mailing lists, chat channels, wikis, blogs, social media, and any other communication channels used by the project.
 
 ---
 
@@ -46,4 +46,4 @@ All reports will be handled with discretion and care.
 
 ## Attribution
 
-This Code of Conduct is based on community standards for open source projects and adapted for the **World Billionaries by Forbes** project.
+This Code of Conduct is based on community standards for open source projects and adapted for the **Workout Preference and Fitness Goals** project.
